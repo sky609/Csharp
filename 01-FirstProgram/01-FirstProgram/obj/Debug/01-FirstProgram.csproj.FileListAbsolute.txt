@@ -1,0 +1,6 @@
+c:\users\sky7\documents\visual studio 2015\Projects\01-FirstProgram\01-FirstProgram\bin\Debug\01-FirstProgram.exe.config
+c:\users\sky7\documents\visual studio 2015\Projects\01-FirstProgram\01-FirstProgram\bin\Debug\01-FirstProgram.exe
+c:\users\sky7\documents\visual studio 2015\Projects\01-FirstProgram\01-FirstProgram\bin\Debug\01-FirstProgram.pdb
+c:\users\sky7\documents\visual studio 2015\Projects\01-FirstProgram\01-FirstProgram\obj\Debug\01-FirstProgram.csprojResolveAssemblyReference.cache
+c:\users\sky7\documents\visual studio 2015\Projects\01-FirstProgram\01-FirstProgram\obj\Debug\01-FirstProgram.exe
+c:\users\sky7\documents\visual studio 2015\Projects\01-FirstProgram\01-FirstProgram\obj\Debug\01-FirstProgram.pdb
