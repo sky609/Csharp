@@ -1,0 +1,6 @@
+c:\users\sky7\documents\visual studio 2015\Projects\02-Variables\02-Variables\bin\Debug\02-Variables.exe.config
+c:\users\sky7\documents\visual studio 2015\Projects\02-Variables\02-Variables\bin\Debug\02-Variables.exe
+c:\users\sky7\documents\visual studio 2015\Projects\02-Variables\02-Variables\bin\Debug\02-Variables.pdb
+c:\users\sky7\documents\visual studio 2015\Projects\02-Variables\02-Variables\obj\Debug\02-Variables.csprojResolveAssemblyReference.cache
+c:\users\sky7\documents\visual studio 2015\Projects\02-Variables\02-Variables\obj\Debug\02-Variables.exe
+c:\users\sky7\documents\visual studio 2015\Projects\02-Variables\02-Variables\obj\Debug\02-Variables.pdb
